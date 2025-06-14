@@ -1,1 +1,1 @@
-a basis for a personal website to host Github projects and serve as a professional portfolio
+This repo holds various fragments of practice webpages made to better understand HTML, CSS, and Apache.
